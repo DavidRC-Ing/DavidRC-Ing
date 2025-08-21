@@ -11,7 +11,7 @@
 
 ## 👋 ¡Hola! Encantado de conocerte
 
-Ingeniero Metalúrgico y Especialista en Gestión de Activos con experiencia como Programador y Analisis de Datos. Me enfoco en transformar datos en decisiones medibles para optimizar procesos, elevar la confiabilidad y crear métricas accionables.  
+Ingeniero Metalúrgico y Especialista en Gestión de Activos, con experiencia en programación y análisis de datos. Me especializo en transformar datos en decisiones medibles para optimizar procesos, aumentar la confiabilidad y desarrollar métricas accionables. Motivado por el aprendizaje continuo y el crecimiento profesional, busco aportar y desarrollar soluciones innovadoras en grandes industrias tecnológicas. 
 He logrado mejoras como:
 - +25% en eficiencia de producción mediante análisis científico de datos.
 - +40% en KPIs de detección temprana de anomalías en equipos y materiales.
